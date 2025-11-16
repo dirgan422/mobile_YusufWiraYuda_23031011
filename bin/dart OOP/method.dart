@@ -10,7 +10,7 @@ class Person{
 
 void main(){
   var person = Person();
-  person.name = 'Dirga';
+  person.name = 'Valerie';
 
-  person.sayHello("Budi", 30);
+  person.sayHello("Dorotea", 30);
 }

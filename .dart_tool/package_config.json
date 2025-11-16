@@ -45,7 +45,7 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///C:/Yusuf/App/flutter/packages/flutter",
+      "rootUri": "file:///C:/Ridho/App/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
@@ -57,7 +57,7 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///C:/Yusuf/App/flutter/packages/flutter_test",
+      "rootUri": "file:///C:/Ridho/App/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
@@ -111,7 +111,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///C:/Yusuf/App/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///C:/Ridho/App/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
@@ -164,7 +164,7 @@
       "languageVersion": "3.5"
     },
     {
-      "name": "mobile_Yusuf Wira Yuda_23031024",
+      "name": "mobile_YusufWiraYuda_23031021",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.9"
@@ -172,7 +172,7 @@
   ],
   "generator": "pub",
   "generatorVersion": "3.9.2",
-  "flutterRoot": "file:///C:/Yusuf/App/flutter",
+  "flutterRoot": "file:///C:/Ridho/App/flutter",
   "flutterVersion": "3.35.3",
   "pubCache": "file:///C:/Users/User/AppData/Local/Pub/Cache"
 }
